@@ -1,17 +1,15 @@
+/*
+	Author: Rayxuln
+	Data: 2019.10.11
+	E-mail: imbosslx@sina.com
+	Zhihu: 
+*/
 #include <iostream>
 
 #include "String.hpp"
 
 
 using namespace std;
-
-
-
-
-
-
-
-
 
 int main()
 {
