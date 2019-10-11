@@ -1,3 +1,11 @@
+/*
+	Author: Rayxuln
+	Data: 2019.10.11
+	E-mail: imbosslx@sina.com
+	Zhihu: 
+	
+	Desciption: A tiny string impletment, please contact me if u have any question with this thing.
+*/
 #include <iostream>
 
 typedef long long SizeType;
